@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "330087111960",
+    "project_id": "sentri-app-5f047",
+    "storage_bucket": "sentri-app-5f047.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330087111960:android:26fddfc6eb6aa2add1926d",
+        "android_client_info": {
+          "package_name": "com.example.sentri_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330087111960-itcr6jno2g9vectqgpffsqon2id4ftdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH9uv_aFVAtrCx_gYYEsmeILXLzxUvRjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330087111960-itcr6jno2g9vectqgpffsqon2id4ftdp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "330087111960-325oudq11ih8fc826h4jkjkjkir2rs4i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sentriApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
