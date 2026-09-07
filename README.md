@@ -1,17 +1,19 @@
-# sentri_app
+# Sentri — AI-Powered Smart Lifestyle Companion
 
-A new Flutter project.
+## API Keys
 
-## Getting Started
+This repository does not include real API keys for security reasons — 
+they have been replaced with placeholder text in the following files:
 
-This project is a starting point for a Flutter application.
+- `lib/services/gemini_service.dart` — Gemini API key
+- `lib/services/weather_service.dart` — OpenWeatherMap API key
 
-A few resources to get you started if this is your first Flutter project:
+To run the app with full functionality (voice assistant, weather, 
+AI insights), replace the placeholder values with your own keys:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Gemini API key: https://aistudio.google.com/apikey (free)
+- OpenWeatherMap API key: https://openweathermap.org/api (free)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+All other features (item tracking, camera recognition, location 
+prediction, family sharing, routines, biometric lock, etc.) work 
+without any additional setup once Firebase is configured.
